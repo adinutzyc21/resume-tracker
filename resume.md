@@ -48,8 +48,8 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 #### **Software Engineer | September 2014 – May 2017**
 
-- Developed front-end features for a Mass Vaccination platform later adopted globally for COVID-19 workflows (16x efficiency improvement)  
-- Built REST services for immunization data aligned with electronic health record standards  
+- Developed front-end features for a Mass Vaccination platform later adopted globally for COVID-19 workflows, improving efficiency by 16x  
+- Built REST services for immunization data aligned with electronic health record (EHR) standards  
 
 ## PROJECTS
 
