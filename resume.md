@@ -1,17 +1,13 @@
 # ADINA RALUCA STOICA
 [adina.stoica@gmail.com](mailto:adina.stoica@gmail.com) | [adinutzyc21.github.io](https://adinutzyc21.github.io/) | [github.com/adinutzyc21](https://github.com/adinutzyc21) | [linkedin.com/in/adinutzyc21](https://www.linkedin.com/in/adinutzyc21/) | New York, NY
 
----
-
 ## SUMMARY
 
 Senior Software Engineer building user-facing systems across web and mobile. Delivered measurable business impact through experimentation, iteration, and ownership of end-to-end features in subscription and growth platforms. Background in machine learning and computer vision.
 
----
-
 ## EXPERIENCE
 
-### BLOOMBERG — New York, NY
+### Bloomberg — New York, NY
 #### Senior Software Engineer, Media Subscriptions Growth | July 2023 – Present
 
 - Built Bloomberg’s first mobile app paywall (React Native), enabling experimentation, analytics instrumentation, and scalable monetization patterns
@@ -47,16 +43,12 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 - Improved system efficiency (~20% faster load time) by optimizing backend data retrieval
 - Implemented key features including Maker Checker and CTM integrations
 
----
-
-### CERNER (now Oracle Health) — Kansas City, MO
+### Cerner (now part of Oracle Health) — Kansas City, MO
 #### Software Engineer | September 2014 – May 2017
 
 - Developed front-end features for a Mass Vaccination platform later adopted globally for COVID-19 workflows (16x efficiency improvement)
 - Built REST services for immunization data aligned with electronic health record standards
 - Increased unit test coverage to ~80% using JUnit
-
----
 
 ## PROJECTS
 
@@ -64,7 +56,6 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 - Built a Chrome extension that auto-generates follow-up emails, improving workflow efficiency for delayed communication
 - Demonstrated the project at React Summit and React Alicante as part of a talk on building Chrome extensions with React, covering practical implementation patterns beyond vanilla JavaScript
 
----
 
 ## SELECTED RESEARCH (Machine Learning & Computer Vision)
 
@@ -73,15 +64,11 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 - Built and evaluated vision pipelines involving feature extraction (SIFT/SURF), 3D reconstruction, and large-scale dataset management (500M+ images)
 - Conducted research on extracting environmental signals (e.g., shadows, lighting) from images using geometric and statistical methods
 
----
-
 ## TECHNOLOGIES
 
 Full-Stack: React, React Native, JavaScript, TypeScript, NodeJS, Python, SQL, C++, C#, Java
 Experimentation & Analytics: Statsig
 Search: Apache Solr
-
----
 
 ## EDUCATION
 
@@ -91,13 +78,9 @@ Search: Apache Solr
 ### Bard College — B.A. Computer Science
 - Thesis: Delaunay diagram representations for image near-duplicate detection
 
----
-
 ## COMMUNITY & LEADERSHIP
 
 - Speaker: React Summit, React Alicante (Chrome extension development with React)
 - Mentor: Interns and early-career engineers across multiple teams (Bloomberg, Cerner)
 - Contributor: Bloomberg Women in Tech (BWIT), internal engineering talks and knowledge sharing
 - Contributed to the design and prototyping of a medical device; co-authored provisional patent application
-
----
