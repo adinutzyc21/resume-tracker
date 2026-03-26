@@ -10,7 +10,7 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 ## EXPERIENCE
 
-### **Bloomberg | New York, NY**
+### **Bloomberg**
 
 #### **Senior Software Engineer, Media Subscriptions Growth | July 2023 – Present**
 
@@ -41,7 +41,7 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 - Improved system efficiency (~20% faster load time) by optimizing backend data retrieval in Bloomberg’s Trade Complete (TC) blotter
 - Implemented key features in TC including Maker Checker and Central Trade Manager (CTM) integrations
 
-### **Cerner (now part of Oracle Health) | Kansas City, MO**
+### **Cerner (now part of Oracle Health)**
 
 #### **Software Engineer | September 2014 – May 2017**
 
@@ -81,6 +81,6 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 ## COMMUNITY & LEADERSHIP
 
-**Speaker:** React Summit, React Alicante — Chrome extension development with React
-**Mentor:** Interns and early-career engineers across multiple teams (Bloomberg, Cerner)
+**Speaker:** React Summit, React Alicante – “How To Build a Chrome Extension Using React”
+**Mentor:** Interns and early-career engineers across multiple teams
 **Contributor:** Bloomberg Women in Tech (BWIT), internal engineering talks and knowledge sharing
