@@ -4,11 +4,11 @@
 
 ## SUMMARY
 
-Senior Software Engineer building user-facing systems across web and mobile. Delivered measurable business impact through experimentation, iteration, and ownership of end-to-end features in subscription and growth platforms. Background in machine learning and computer vision.
+Senior Software Engineer building user-facing systems across web and mobile. Delivered measurable business impact through experimentation, iteration, and ownership of end-to-end features in subscription and growth platforms. Background in computer vision research.
 
 ## EXPERIENCE
 
-### **Bloomberg — New York, NY**
+### **Bloomberg | New York, NY**
 
 #### **Senior Software Engineer, Media Subscriptions Growth | July 2023 – Present**
 
@@ -45,7 +45,7 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 - Improved system efficiency (\~20% faster load time) by optimizing backend data retrieval  
 - Implemented key features including Maker Checker and CTM integrations
 
-### **Cerner (now part of Oracle Health) — Kansas City, MO**
+### **Cerner (now part of Oracle Health) | Kansas City, MO**
 
 #### **Software Engineer | September 2014 – May 2017**
 
@@ -77,11 +77,11 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 
 ## EDUCATION
 
-**Washington University in St. Louis — M.S. Computer Science** 
+**Washington University in St. Louis | M.S. Computer Science** 
 
 - Research Assistant, Computer Vision Group
 
-**Bard College — B.A. Computer Science** 
+**Bard College | B.A. Computer Science** 
 
 - **Thesis:** Delaunay diagram representations for image near-duplicate detection
 
