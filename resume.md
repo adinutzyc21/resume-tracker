@@ -19,9 +19,9 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 - Owned and built Bloomberg’s first mobile app paywall system (React Native), enabling experimentation and scalable monetization; drove ~18K additional annual subscriptions (~1.5K/month)
 - Executed A/B experiments across paywall variants, scaling winning designs (+28% CVR desktop) and contributing to data-driven product decisions
 - Delivered Google News Showcase / Article Access integration, enabling a $2M partnership and establishing a recurring $50K annual revenue stream
-- Co-led development of a configurable paywall platform (React, Node.js) enabling dynamic experimentation and feature gating across user-facing surfaces
+- Co-led development of a configurable paywall platform (React, Node.js), contributing to the design of a JSON-based configuration system that drives dynamic UI rendering, along with audience targeting logic for experimentation and targeted deployment
 - Designed reusable authentication components (login modal, reCAPTCHA) used across multiple applications
-- Partnered across Payments, Data Science, and Mobile teams to deliver end-to-end subscription systems
+- Partnered across Payments, Data Science, and Mobile teams to deliver end-to-end subscription systems across multiple user-facing products
 - Contributed to internal AI-assisted developer tooling, including LLM-powered codebase search, context retrieval, and automated test plan generation, improving developer onboarding and reducing time-to-context
 
 #### **Senior Software Engineer, Recruiting Technology | December 2021 – July 2023**
