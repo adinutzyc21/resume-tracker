@@ -5,7 +5,7 @@
 
 ### **SUMMARY**
 
-Senior Software Engineer with experience building subscription and monetization systems, including paywalls, experimentation platforms, and conversion-focused user experiences. Proven track record of delivering measurable business impact through data-driven iteration and cross-platform development.
+Senior Software Engineer building user-facing systems across web and mobile. Delivered measurable business impact through experimentation, iteration, and ownership of end-to-end features in subscription and growth platforms.
 
 ---
 
@@ -17,13 +17,13 @@ Senior Software Engineer with experience building subscription and monetization 
 
 • Built Bloomberg’s first mobile app paywall (React Native), enabling experimentation, analytics instrumentation, and scalable monetization patterns
 • Redesigned mobile web paywall after initial rollout underperformed; introduced scroll-triggered UX to address mobile interaction constraints and improve engagement
-• Led A/B experimentation across desktop and mobile paywalls, scaling high-performing variants (+28% CVR desktop) and rolling back underperforming designs
+• Led A/B experimentation across paywall variants, scaling high-performing designs (+28% CVR desktop) and rolling back underperforming ones
 • Delivered significant monetization impact: +20% LTV, +90.4% registration rate, +28.65% conversion rate (100% statistical significance)
 • Generated ~18K additional annual subscriptions (~1.5K/month) through improved mobile web paywall performance
-• Delivered Google News Showcase / Article Access integration, supporting a $2M partnership deal and $50K in annual recurring revenue
-• Led development of configurable paywall platform (Wall-E / Fortress), enabling dynamic experimentation and feature gating
-• Designed and implemented reusable React login modal integrated with authentication and recaptcha flows across multiple applications
-• Collaborated cross-functionally with Payments, Data Science, and Mobile teams to deliver production features under tight timelines
+• Delivered Google News Showcase / Article Access integration, supporting a $2M partnership and $50K annual recurring revenue
+• Led development of configurable paywall platform (Wall-E / Fortress) for dynamic experimentation and feature gating
+• Designed reusable authentication components (React login modal, recaptcha flows) used across multiple applications
+• Collaborated with Payments, Data Science, and Mobile teams to deliver cross-platform subscription systems under tight timelines
 • Improved developer productivity through shared tooling and AI-assisted workflows; contributed to team-wide adoption
 
 ---
@@ -34,7 +34,7 @@ Senior Software Engineer with experience building subscription and monetization 
 • Led development of an internal candidate discovery platform (PATH), improving internal mobility and hiring workflows
 • Built a Chrome extension (React) enabling recruiters to source candidates directly from the web; adopted by internal recruiting teams
 • Developed UI and backend components for recruiting CRM systems (JavaScript, C#, Python, Apache Solr)
-• Mentored interns and junior engineers, defining onboarding plans and guiding project execution
+• Mentored interns and junior engineers, guiding project execution and onboarding
 • Authored design documents, led technical discussions, and coordinated cross-team delivery
 • Served as Scrum Master (rotational), managing sprint planning, standups, and retrospectives
 
@@ -45,9 +45,8 @@ Senior Software Engineer with experience building subscription and monetization 
 
 • Owned the Standing Settlement Instructions (SSI) UI used by ~900 daily users
 • Migrated a high-throughput Python service (3.5M+ daily requests) to Python3 and Linux with zero downtime
-• Improved search performance using Apache Solr (22K+ daily requests), enabling flexible multi-field queries
+• Improved search capabilities using Apache Solr (22K+ daily requests), enabling flexible multi-field queries
 • Designed data-sharing features across financial entities, improving interoperability
-• Rewrote core business logic to support scalable and customizable workflows
 
 ---
 
@@ -55,9 +54,8 @@ Senior Software Engineer with experience building subscription and monetization 
 **June 2017 – February 2019**
 
 • Contributed to Bloomberg’s Trade Complete blotter, a core asset management workflow tool
-• Improved performance (~20% faster load time) by optimizing backend data retrieval
+• Improved system efficiency (~20% faster load time) by optimizing backend data retrieval
 • Implemented key features including Maker Checker and CTM integrations
-• Championed Git best practices and contributed to internal UI standards
 
 ---
 
@@ -66,7 +64,7 @@ Senior Software Engineer with experience building subscription and monetization 
 **September 2014 – May 2017**
 
 • Developed front-end features for a Mass Vaccination platform later adopted globally for COVID-19 workflows (16x efficiency improvement)
-• Built REST services for immunization data aligned with electronic health record standards
+• Built REST services for immunization data  aligned with electronic health record standards
 • Increased unit test coverage to ~80% using JUnit
 
 ---
