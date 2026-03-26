@@ -14,37 +14,35 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 #### **Senior Software Engineer, Media Subscriptions Growth | July 2023 – Present**
 
-- Built Bloomberg’s first mobile app paywall (React Native), enabling experimentation, analytics instrumentation, and scalable monetization patterns which drove \~18K additional annual subscriptions (\~1.5K/month)
-- Implemented a new wall UX (React) on desktop and mobile web, which delivered significant monetization impact: +20% lifetime value (LTV), +90.4% registration rate, +28.65% conversion rate (CVR)
-- Refined the mobile web paywall design post-launch, introducing scroll-triggered UX to reduce friction and improve engagement 
-- Conducted A/B experimentation across paywall variants, scaling winning designs (+28% CVR desktop) and deprecating underperforming ones
+- Owned and built Bloomberg’s first mobile app paywall system (React Native), enabling experimentation and scalable monetization; drove ~18K additional annual subscriptions (~1.5K/month)
+- Implemented a new paywall UX (React) across desktop and mobile web, delivering significant monetization impact: +20% lifetime value (LTV), +90.4% registration rate, +28.65% conversion rate (CVR)
+- Refined mobile web paywall design post-launch, introducing scroll-triggered UX to reduce friction and improve engagement 
+- Ran A/B experiments across paywall variants, scaling winning designs (+28% CVR desktop) and deprecating underperforming ones
 - Delivered Google News Showcase / Article Access integration, enabling a $2M partnership and establishing a recurring $50K annual revenue stream  
 - Co-led development of a configurable paywall platform (React, Node.js) for dynamic experimentation and feature gating
-- Designed reusable authentication components (login modal, recaptcha) used across multiple applications
+- Designed reusable authentication components (login modal, reCAPTCHA) used across multiple applications
 - Partnered with Payments, Data Science, and Mobile teams to deliver end-to-end subscription systems  
-- Contributed to internal AI-assisted developer tooling, including LLM-powered codebase search, context retrieval, and automated test plan generation; improved developer onboarding and reduced time-to-context for large codebases
+- Contributed to internal AI-assisted developer tooling, including LLM-powered codebase search, context retrieval, and automated test plan generation; improving developer onboarding and reducing time-to-context
 
 #### **Senior Software Engineer, Recruiting Technology | December 2021 – July 2023**
 
-- Led end-to-end development of an internal candidate discovery platform (PATH), coordinating cross-team efforts and driving technical direction to improve internal mobility and hiring workflows  
-- Built a React Chrome extension for sourcing candidates from the web; adopted by internal recruiting teams  
-- Developed UI and backend components for recruiting CRM systems (JavaScript, C\#, Python, Apache Solr)  
-- Mentored interns and junior engineers, guiding onboarding and project execution  
-- Authored design documents, led technical discussions, and coordinated cross-team delivery  
+- Led end-to-end development of an internal candidate discovery platform for employee mobility (PATH), setting technical direction and coordinating cross-team efforts
+- Built a Chrome extension for sourcing candidates from the web, adopted by internal recruiting teams, and advocated for a React-based architecture to improve maintainability and scalability
+- Developed and integrated UI and backend components for recruiting CRM systems (JavaScript, C#, Python, Apache Solr), supporting candidate search and workflow automation
+- Mentored interns and junior engineers, supporting onboarding and guiding project execution
+- Authored design documents and led technical discussions to drive alignment across teams
 - Served as Scrum Master (rotational), managing sprint planning, standups, and retrospectives
 
 #### **Senior Software Engineer, AIM Entity Management | February 2019 – December 2021**
 
-- Owned the Standing Settlement Instructions (SSI) UI used by \~900 daily users
-- Migrated a 3.5M+ daily request Python service to Python 3 and Linux with zero downtime  
-- Improved search capabilities using Apache Solr (22K+ daily requests), enabling flexible multi-field queries  
-- Designed data-sharing features across financial entities, improving interoperability
+- Owned the Standing Settlement Instructions (SSI) UI used by ~900 daily users  
+- Migrated a Python service handling 3.5M+ daily requests to Python 3 and Linux with zero downtime  
+- Improved SSI search using Apache Solr (22K+ daily requests), rewriting core business logic to support flexible multi-field queries
 
 #### **Senior Software Engineer, AIM Trade Blotters | June 2017 – February 2019**
 
-- Contributed to Bloomberg’s Trade Complete (TC) blotter (TypeScript), a core asset management workflow tool  
-- Improved system efficiency (\~20% faster load time) by optimizing backend data retrieval
-- Implemented key features including Maker Checker and Central Trade Manager (CTM) integrations
+- Improved system efficiency (~20% faster load time) by optimizing backend data retrieval in Bloomberg’s Trade Complete (TC) blotter  
+- Implemented key features in TC including Maker Checker and Central Trade Manager (CTM) integrations  
 
 ### **Cerner (now part of Oracle Health) | Kansas City, MO**
 
@@ -52,7 +50,6 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 - Developed front-end features for a Mass Vaccination platform later adopted globally for COVID-19 workflows (16x efficiency improvement)  
 - Built REST services for immunization data aligned with electronic health record standards  
-- Increased unit test coverage to \~80% using JUnit
 
 ## PROJECTS
 
