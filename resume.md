@@ -2,9 +2,11 @@
 
 [adina.stoica@gmail.com](mailto:adina.stoica@gmail.com) | [adinutzyc21.github.io](https://adinutzyc21.github.io/) | [github.com/adinutzyc21](https://github.com/adinutzyc21) | [linkedin.com/in/adinutzyc21](https://www.linkedin.com/in/adinutzyc21/) | New York, NY
 
+---
+
 ## SUMMARY
 
-Senior Software Engineer building user-facing systems across web and mobile. Delivered measurable business impact through experimentation, iteration, and ownership of end-to-end features in subscription and growth platforms. Background in computer vision research.
+Senior Software Engineer building scalable, user-facing platforms across web and mobile. Proven track record of owning end-to-end systems and delivering measurable business impact through experimentation, iteration, and cross-functional collaboration. Experience spanning platform development, developer tooling, and data-driven product systems, with a background in computer vision research.
 
 ## EXPERIENCE
 
@@ -12,16 +14,15 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 
 #### **Senior Software Engineer, Media Subscriptions Growth | July 2023 – Present**
 
-- Built Bloomberg’s first mobile app paywall (React Native), enabling experimentation, analytics instrumentation, and scalable monetization patterns  
-- Redesigned mobile web paywall after underperforming initial rollout; introduced scroll-triggered UX to reduce friction and improve engagement  
-- Led A/B experimentation across paywall variants, scaling winning designs (+28% CVR desktop) and deprecating underperforming ones  
-- Delivered significant monetization impact: \+20% LTV, \+90.4% registration rate, \+28.65% conversion rate (100% statistical significance)  
-- Drove \~18K additional annual subscriptions (\~1.5K/month) via mobile paywall improvements  
+- Built Bloomberg’s first mobile app paywall (React Native), enabling experimentation, analytics instrumentation, and scalable monetization patterns which drove \~18K additional annual subscriptions (\~1.5K/month)
+- Implemented a new wall UX (React) on desktop and mobile web, which delivered significant monetization impact: +20% lifetime value (LTV), +90.4% registration rate, +28.65% conversion rate (CVR)
+- Refined the mobile web paywall design post-launch, introducing scroll-triggered UX to reduce friction and improve engagement 
+- Conducted A/B experimentation across paywall variants, scaling winning designs (+28% CVR desktop) and deprecating underperforming ones
 - Delivered Google News Showcase / Article Access integration, enabling a $2M partnership and establishing a recurring $50K annual revenue stream  
-- Led development of configurable paywall platform for dynamic experimentation and feature gating  
-- Designed reusable authentication components (login modal, recaptcha) used across multiple applications  
+- Co-led development of a configurable paywall platform (React, Node.js) for dynamic experimentation and feature gating
+- Designed reusable authentication components (login modal, recaptcha) used across multiple applications
 - Partnered with Payments, Data Science, and Mobile teams to deliver end-to-end subscription systems  
-- Contributed to internal AI-assisted developer tooling, including a shared VS Code workspace and knowledge base with LLM-powered search and automation (codebase indexing, context retrieval, test plan generation), accelerating codebase navigation and onboarding
+- Contributed to internal AI-assisted developer tooling, including LLM-powered codebase search, context retrieval, and automated test plan generation; improved developer onboarding and reduced time-to-context for large codebases
 
 #### **Senior Software Engineer, Recruiting Technology | December 2021 – July 2023**
 
@@ -34,16 +35,16 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 
 #### **Senior Software Engineer, AIM Entity Management | February 2019 – December 2021**
 
-- Owned the Standing Settlement Instructions (SSI) UI used by \~900 daily users  
+- Owned the Standing Settlement Instructions (SSI) UI used by \~900 daily users
 - Migrated a 3.5M+ daily request Python service to Python 3 and Linux with zero downtime  
 - Improved search capabilities using Apache Solr (22K+ daily requests), enabling flexible multi-field queries  
 - Designed data-sharing features across financial entities, improving interoperability
 
 #### **Senior Software Engineer, AIM Trade Blotters | June 2017 – February 2019**
 
-- Contributed to Bloomberg’s Trade Complete blotter, a core asset management workflow tool  
-- Improved system efficiency (\~20% faster load time) by optimizing backend data retrieval  
-- Implemented key features including Maker Checker and CTM integrations
+- Contributed to Bloomberg’s Trade Complete (TC) blotter (TypeScript), a core asset management workflow tool  
+- Improved system efficiency (\~20% faster load time) by optimizing backend data retrieval
+- Implemented key features including Maker Checker and Central Trade Manager (CTM) integrations
 
 ### **Cerner (now part of Oracle Health) | Kansas City, MO**
 
@@ -71,17 +72,17 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 
 ## TECHNOLOGIES
 
-**Full-Stack:** React, React Native, JavaScript, TypeScript, NodeJS, Python, SQL, C++, C\#, Java  
-**Experimentation & Analytics:** Statsig  
-**Search:** Apache Solr
+**Languages & Frameworks**: TypeScript, JavaScript, Python, React, React Native, Node.js  
+**Systems & Data**: SQL, Apache Solr  
+**Experimentation**: Statsig, A/B testing platforms  
 
 ## EDUCATION
 
-**Washington University in St. Louis | M.S. Computer Science** 
+**Washington University in St. Louis, M.S. Computer Science** 
 
 - Research Assistant, Computer Vision Group
 
-**Bard College | B.A. Computer Science** 
+**Bard College, B.A. Computer Science** 
 
 - **Thesis:** Delaunay diagram representations for image near-duplicate detection
 
