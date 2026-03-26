@@ -5,7 +5,7 @@
 
 ### **SUMMARY**
 
-Senior Software Engineer building user-facing systems across web and mobile. Delivered measurable business impact through experimentation, iteration, and ownership of end-to-end features in subscription and growth platforms.
+Senior Software Engineer building user-facing systems across web and mobile. Delivered measurable business impact through experimentation, iteration, and ownership of end-to-end features in subscription and growth platforms. Background in machine learning and computer vision.
 
 ---
 
@@ -64,8 +64,16 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 **September 2014 – May 2017**
 
 • Developed front-end features for a Mass Vaccination platform later adopted globally for COVID-19 workflows (16x efficiency improvement)
-• Built REST services for immunization data  aligned with electronic health record standards
+• Built REST services for immunization data aligned with electronic health record standards
 • Increased unit test coverage to ~80% using JUnit
+
+---
+
+### **SELECTED RESEARCH (Machine Learning & Computer Vision)**
+
+• Applied machine learning to classify cerebral aneurysms using shape-based features and supervised models on medical imaging data
+• Conducted computer vision research on extracting environmental signals (e.g., shadows, lighting) from images using geometric and statistical methods
+• Built and evaluated vision pipelines involving feature extraction (SIFT/SURF), 3D reconstruction, and dataset generation
 
 ---
 
@@ -86,6 +94,6 @@ React, React Native, TypeScript, JavaScript, Python, C#, SQL, Apache Solr, StatS
 
 • Speaker: React Summit, React Alicante
 • Bloomberg Women in Tech (BWIT), Media-UI & React Working Groups
-• Intern Mentor, Tech Talks & Lunch & Learns contributor
+• Intern Mentor, Tech Talks and Lunch & Learns contributor
 
 ---
