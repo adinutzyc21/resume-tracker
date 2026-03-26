@@ -1,5 +1,5 @@
 # ADINA RALUCA STOICA
-[adina.stoica@gmail.com](mailto:adina.stoica@gmail.com) - adinutzyc21.github.io - New York, NY
+[adina.stoica@gmail.com](mailto:adina.stoica@gmail.com) | [adinutzyc21.github.io](https://adinutzyc21.github.io/) | [github.com/adinutzyc21](https://github.com/adinutzyc21) | [linkedin.com/in/adinutzyc21](https://www.linkedin.com/in/adinutzyc21/) | New York, NY
 
 ---
 
@@ -19,11 +19,11 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 - Led A/B experimentation across paywall variants, scaling winning designs (+28% CVR desktop) and deprecating underperforming ones
 - Delivered significant monetization impact: +20% LTV, +90.4% registration rate, +28.65% conversion rate (100% statistical significance)
 - Drove ~18K additional annual subscriptions (~1.5K/month) through improved mobile web paywall performance
-- Delivered Google News Showcase / Article Access integration, enabling a $2M partnership and helping establish a recurring $50K annual revenue stream
+- Delivered Google News Showcase / Article Access integration, enabling a $2M partnership and establishing a recurring $50K annual revenue stream
 - Led development of configurable paywall platform (Wall-E / Fortress) for dynamic experimentation and feature gating
 - Designed reusable authentication components (React login modal, recaptcha flows) used across multiple applications
-- Collaborated cross-functionally with Payments, Data Science, and Mobile teams to deliver end-to-end subscription systems
-- Contributed to internal AI-assisted developer tooling, including a shared VS Code workspace and knowledge base with LLM-powered search and automation (codebase indexing, context retrieval, test plan generation), improving developer productivity and onboarding efficiency
+- Partnered with Payments, Data Science, and Mobile teams to deliver end-to-end subscription systems
+- Contributed to internal AI-assisted developer tooling, including a shared VS Code workspace and knowledge base with LLM-powered search and automation (codebase indexing, context retrieval, test plan generation), accelerating codebase navigation and onboarding
 
 #### Senior Software Engineer, Recruiting Technology | December 2021 – July 2023
 
@@ -77,23 +77,25 @@ Senior Software Engineer building user-facing systems across web and mobile. Del
 
 ## TECHNOLOGIES
 
-React, React Native, TypeScript, JavaScript, Python, C++, C#, SQL, Apache Solr, StatSig, Chrome Extensions, Analytics & Experimentation Systems
+Full-Stack: React, React Native, JavaScript, TypeScript, NodeJS, Python, SQL, C++, C#, Java
+Experimentation & Analytics: Statsig
+Search: Apache Solr
 
 ---
 
 ## EDUCATION
 
 ### Washington University in St. Louis — M.S. Computer Science
-- Research Assistant in the Computer Vision Group
+- Research Assistant, Computer Vision Group
 
 ### Bard College — B.A. Computer Science
 - Thesis: Delaunay diagram representations for image near-duplicate detection
 
 ---
 
-### COMMUNITY & LEADERSHIP
+## COMMUNITY & LEADERSHIP
 
-- Speaker: React Summit, React Alicante
+- Speaker: React Summit, React Alicante (Chrome extension development with React)
 - Mentor: Interns and early-career engineers across multiple teams (Bloomberg, Cerner)
 - Contributor: Bloomberg Women in Tech (BWIT), internal engineering talks and knowledge sharing
 - Contributed to the design and prototyping of a medical device; co-authored provisional patent application
