@@ -14,24 +14,21 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 #### **Senior Software Engineer, Media Subscriptions Growth | July 2023 – Present**
 
-- Redesigned paywall UX across desktop and mobile web (React), delivering significant monetization impact: +20% lifetime value (LTV), +90.4% registration rate, +28.65% conversion rate (CVR)
-- Refined mobile web paywall design post-launch, introducing scroll-triggered UX to reduce friction and improve engagement 
+- Implemented a new paywall UX (React) across desktop and mobile web, delivering significant monetization impact: +20% lifetime value (LTV), +90.4% registration rate, +28.65% conversion rate (CVR)
+- Refined mobile web paywall design post-launch, introducing scroll-triggered interactions to reduce friction and improve engagement on smaller screens
 - Owned and built Bloomberg’s first mobile app paywall system (React Native), enabling experimentation and scalable monetization; drove ~18K additional annual subscriptions (~1.5K/month)
 - Executed A/B experiments across paywall variants, scaling winning designs (+28% CVR desktop) and contributing to data-driven product decisions
 - Delivered Google News Showcase / Article Access integration, enabling a $2M partnership and establishing a recurring $50K annual revenue stream  
-- Co-led development of a configurable paywall platform (React, Node.js) for dynamic experimentation and feature gating
+- Co-led development of a configurable paywall platform (React, Node.js) enabling dynamic experimentation and feature gating across user-facing surfaces
 - Designed reusable authentication components (login modal, reCAPTCHA) used across multiple applications
-- Partnered with Payments, Data Science, and Mobile teams to deliver end-to-end subscription systems  
-- Contributed to internal AI-assisted developer tooling, including LLM-powered codebase search, context retrieval, and automated test plan generation; improving developer onboarding and reducing time-to-context
+- Partnered across Payments, Data Science, and Mobile teams to deliver end-to-end subscription systems
+- Contributed to internal AI-assisted developer tooling, including LLM-powered codebase search, context retrieval, and automated test plan generation, improving developer onboarding and reducing time-to-context
 
 #### **Senior Software Engineer, Recruiting Technology | December 2021 – July 2023**
 
 - Led end-to-end development of an internal candidate discovery platform for employee mobility (PATH), setting technical direction and coordinating cross-team efforts
 - Built a Chrome extension for sourcing candidates from the web, adopted by internal recruiting teams, and advocated for a React-based architecture to improve maintainability and scalability
 - Developed and integrated UI and backend components for recruiting CRM systems (JavaScript, C#, Python, Apache Solr), supporting candidate search and workflow automation
-- Mentored interns and junior engineers, supporting onboarding and guiding project execution
-- Authored design documents and led technical discussions to drive alignment across teams
-- Served as Scrum Master (rotational), managing sprint planning, standups, and retrospectives
 
 #### **Senior Software Engineer, AIM Entity Management | February 2019 – December 2021**
 
@@ -55,8 +52,7 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 #### **Email Postponer (Chrome Extension)**
 
-- Built a Chrome extension to auto-generate follow-up emails and improve workflow efficiency  
-- Demonstrated the project at React Summit and React Alicante as part of a talk on building Chrome extensions with React, covering practical implementation patterns beyond vanilla JavaScript
+- Built a Chrome extension to auto-generate follow-up emails and improve workflow efficiency
 
 ## SELECTED RESEARCH
 
@@ -85,7 +81,7 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 ## COMMUNITY & LEADERSHIP
 
-**Speaker:** React Summit, React Alicante (Chrome extension development with React)  
+**Speaker:** React Summit, React Alicante — Chrome extension development with React
 **Mentor:** Interns and early-career engineers across multiple teams (Bloomberg, Cerner)  
 **Contributor:** Bloomberg Women in Tech (BWIT), internal engineering talks and knowledge sharing  
 Contributed to the design and prototyping of a medical device; co-authored provisional patent application
