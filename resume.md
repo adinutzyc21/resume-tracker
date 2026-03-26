@@ -84,6 +84,7 @@ React, React Native, TypeScript, JavaScript, Python, C++, C#, SQL, Apache Solr, 
 ## EDUCATION
 
 ### Washington University in St. Louis — M.S. Computer Science
+- Research Assistant in the Media and Machines Laboratory, Computer Vision Group
 
 ### Bard College — B.A. Computer Science
 - Thesis: Delaunay diagram representations for image near-duplicate detection
@@ -92,8 +93,9 @@ React, React Native, TypeScript, JavaScript, Python, C++, C#, SQL, Apache Solr, 
 
 ### COMMUNITY & LEADERSHIP
 
-- Speaker: React Summit, React Alicante (presented Email Postponer Chrome extension and architectural design decisions)
+- Speaker: React Summit, React Alicante (presented Email Postponer Chrome extension in the talk "How To Build a Chrome Extension Using React")
 - Mentor: Interns and early-career engineers across multiple teams (Bloomberg, Cerner)
 - Contributor: Bloomberg Women in Tech (BWIT), internal engineering talks and knowledge sharing
+- Contributed to the design and prototyping of a medical device; co-authored provisional patent application
 
 ---
