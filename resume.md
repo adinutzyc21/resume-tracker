@@ -20,14 +20,14 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 - Executed A/B experiments across paywall variants, scaling winning designs (+28% CVR desktop) and contributing to data-driven product decisions
 - Delivered Google News Showcase / Article Access integration, enabling a $2M partnership and establishing a recurring $50K annual revenue stream
 - Co-led development of a configurable paywall platform (React, Node.js), contributing to the design of a JSON-based configuration system that drives dynamic UI rendering, along with audience targeting logic for experimentation and targeted deployment
-- Designed reusable authentication components (login modal, reCAPTCHA) used across multiple applications
-- Partnered across Payments, Data Science, and Mobile teams to deliver end-to-end subscription systems across multiple user-facing products
-- Contributed to internal AI-assisted developer tooling, including LLM-powered codebase search, context retrieval, and automated test plan generation, improving developer onboarding and reducing time-to-context
+- Designed reusable authentication components (login modal, reCAPTCHA), integrating with GraphQL and REST-based identity APIs across multiple applications
+- Partnered across Payments, Data Science, and Mobile teams to design and deliver end-to-end subscription systems across multiple products
+- Developed internal AI-assisted developer tools (LLM-powered codebase search, context retrieval, automated test plan generation), improving onboarding speed and reducing time-to-context
 
 #### **Senior Software Engineer, Recruiting Technology | December 2021 – July 2023**
 
 - Led end-to-end development of an internal candidate discovery platform for employee mobility (PATH), setting technical direction and coordinating cross-team efforts
-- Built a Chrome extension for sourcing candidates from the web, adopted by internal recruiting teams, and advocated for a React-based architecture to improve maintainability and scalability
+- Built a Chrome extension for sourcing candidates, adopted by internal recruiting teams, and drove adoption of a React-based architecture to improve scalability and maintainability
 - Developed and integrated UI and backend components for recruiting CRM systems (JavaScript, C#, Python, Apache Solr), supporting candidate search and workflow automation
 
 #### **Senior Software Engineer, AIM Entity Management | February 2019 – December 2021**
@@ -65,9 +65,9 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 ## TECHNOLOGIES
 
-**Languages & Frameworks**: TypeScript, JavaScript, Python, React, React Native, Node.js
-**Systems & Data**: SQL, Apache Solr
-**Experimentation**: Statsig, A/B testing platforms
+**Languages & Frameworks**: TypeScript, JavaScript, Python, React, React Native, Node.js  
+**Data, APIs & Infrastructure**: SQL, BigQuery, Apache Solr, GraphQL, REST APIs  
+**Experimentation & Analytics**: Statsig, A/B testing platforms, Google Analytics, New Relic
 
 ## EDUCATION
 
