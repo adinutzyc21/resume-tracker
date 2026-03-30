@@ -16,7 +16,8 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 - Implemented a new paywall UX (React) across desktop and mobile web, delivering significant monetization impact: +20% lifetime value (LTV), +90.4% registration rate, +28.65% conversion rate (CVR)
 - Refined mobile web paywall design post-launch, introducing scroll-triggered interactions to reduce friction and improve engagement on smaller screens
-- Owned and built Bloomberg’s first mobile app paywall system (React Native), enabling experimentation and scalable monetization; drove ~18K additional annual subscriptions (~1.5K/month)
+- Owned the implementation of Japanese-language registration and identity systems (Login, Forgot Password), partnering across teams to integrate localized paywall and subscription gates.
+- Architected and built Bloomberg’s first mobile app paywall system (React Native), enabling experimentation and scalable monetization; drove ~18K additional annual subscriptions (~1.5K/month)
 - Executed A/B experiments across paywall variants, scaling winning designs (+28% CVR desktop) and contributing to data-driven product decisions
 - Delivered Google News Showcase / Article Access integration, enabling a $2M partnership and establishing a recurring $50K annual revenue stream
 - Co-led development of a configurable paywall platform (React, Node.js), contributing to the design of a JSON-based configuration system that drives dynamic UI rendering, along with audience targeting logic for experimentation and targeted deployment
@@ -65,8 +66,8 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 ## TECHNOLOGIES
 
-**Languages & Frameworks**: TypeScript, JavaScript, Python, React, React Native, Node.js  
-**Data, APIs & Infrastructure**: SQL, BigQuery, Apache Solr, GraphQL, REST APIs  
+**Languages & Frameworks**: TypeScript, JavaScript, Python, React, React Native, Node.js
+**Data, Auth & Infrastructure**: SQL, BigQuery, Apache Solr, GraphQL, REST APIs, OAuth/Identity, i18n
 **Experimentation & Analytics**: Statsig, A/B testing platforms, Google Analytics, New Relic
 
 ## EDUCATION
