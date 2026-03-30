@@ -68,7 +68,7 @@ Senior Software Engineer building scalable, user-facing platforms across web and
 
 **Languages & Frameworks**: TypeScript, JavaScript, Python, React, React Native, Node.js
 **Data, Auth & Infrastructure**: SQL, BigQuery, Apache Solr, GraphQL, REST APIs, OAuth/Identity, i18n
-**Experimentation & Analytics**: Statsig, A/B testing platforms, Google Analytics, New Relic
+**Experimentation & Analytics**: Statsig (A/B Testing, Feature Flagging), Google Analytics, New Relic
 
 ## EDUCATION
 
